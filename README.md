@@ -2,7 +2,7 @@
 <h3 align="center">~A passionate aspiring full-stack web dev from Italy~</h3>
 
 ###   A little more about me...  
-<img align="right" width="250" height="390" img src="https://github.com/JCGrnm/JCGrnm/assets/111151426/7f1cc796-eafe-4100-ad93-ec82555aa544" alt="Hello World GIF" width="4200">
+<img align="right" width="250" height="405" img src="https://github.com/JCGrnm/JCGrnm/assets/111151426/7f1cc796-eafe-4100-ad93-ec82555aa544" alt="Hello World GIF" width="4200">
 
 ```javascript
 const filipinaMadeInItaly = {
@@ -14,7 +14,8 @@ const filipinaMadeInItaly = {
     fe: "Redux, Next.js",
     other: "Blender, Unreal Engine, Three.js, Python, R"
   },
-  funFacts: "Chronic coffee aficionado. Used to be a professional digital illustrator!"
+  funFacts: "Chronic coffee aficionado.
+             Used to be a professional digital illustrator!"
 }
 
 const profileInfo = {
