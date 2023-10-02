@@ -2,7 +2,8 @@
 <h3 align="center">~A passionate aspiring full-stack web dev from Italy~</h3>
 
 ###   A little more about me...  
-<img align="right" width="250" height="405" img src="https://github.com/JCGrnm/JCGrnm/assets/111151426/7f1cc796-eafe-4100-ad93-ec82555aa544" alt="Hello World GIF" width="4200">
+<img align="right" width="300" height="410" src="https://github.com/JCGrnm/JCGrnm/assets/111151426/762262af-bd81-45b0-8bfc-6d902596a7f7" alt="Hello World GIF">
+
 
 ```javascript
 const filipinaMadeInItaly = {
