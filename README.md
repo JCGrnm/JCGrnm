@@ -2,7 +2,7 @@
 <h3 align="center">~A passionate aspiring full-stack web dev from Italy~</h3>
 
 ###   A little more about me...  
-<img align="right" width="300" height="390" src="https://github.com/JCGrnm/JCGrnm/assets/111151426/762262af-bd81-45b0-8bfc-6d902596a7f7" alt="Hello World GIF">
+<img align="right" width="300" height="380" src="https://github.com/JCGrnm/JCGrnm/assets/111151426/762262af-bd81-45b0-8bfc-6d902596a7f7" alt="Hello World GIF">
 
 
 ```javascript
