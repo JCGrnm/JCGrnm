@@ -1,4 +1,4 @@
-<h1 align="center">👋Welcome to my humble abode, I'm Jonna!</h1>
+<h1 align="center">👋Welcome to my humble abode, I'm Cely!</h1>
 <h3 align="center">~A passionate aspiring software dev from Italy~</h3>
 
 ###   A little more about me...  
