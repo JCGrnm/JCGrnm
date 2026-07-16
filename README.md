@@ -1,5 +1,4 @@
-<h1 align="center">👋Welcome to my humble abode, I'm Cely!</h1>
-<h3 align="center">~A passionate aspiring software dev from Italy~</h3>
+<h1 align="center">👋Welcome to my humble abode!</h1>
 
 ###   A little more about me...  
 
